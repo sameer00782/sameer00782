@@ -1,4 +1,4 @@
-![logo](https://github.com/sameer00782/sameer00782/blob/main/giphy-7.gif)
+![logo](https://github.com/sameer00782/sameer00782/blob/main/Banner1.gif)
 <h1 align="center">Hi 👋, I'm Sameer Sonwane</h1>
 <h3 align="center">I am like a code under development.</h3>
 <img align="right"alt="coding"width="400"src=http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif>
