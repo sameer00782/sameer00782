@@ -1,3 +1,4 @@
+![logo](https://github.com/sameer00782/sameer00782/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Sameer Sonwane</h1>
 <h3 align="center">I am like a code under development.</h3>
 <img align="right"alt="coding"width="400"src=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
